@@ -83,7 +83,3 @@ $$
 - Wikipedia: [Analytic signal](https://en.wikipedia.org/wiki/Analytic_signal)
 - Wikipedia: [Hilbert transform](https://en.wikipedia.org/wiki/Hilbert_transform)
 
----
-
-## 🗂 ディレクトリ構成（例）
-
